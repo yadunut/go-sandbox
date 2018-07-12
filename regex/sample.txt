@@ -1,0 +1,5 @@
+[ ] SSD Homework
+[] Fails
+[X] NI CA
+[x] NI Practical
+[o] Should fail to parse
